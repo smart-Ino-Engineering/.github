@@ -1,7 +1,5 @@
 # Smartinno Engineering Company Profile
 
-![Smartinno Logo](https://avatars.githubusercontent.com/u/170186424?s=200&v=4) 
-
 
 ## About Us
 Smartinno Engineering is a premier Agile software development company dedicated to delivering cutting-edge solutions that drive innovation and efficiency. Headquartered in Dar es Salaam, Tanzania, and New York, USA, we specialize in integrating advanced technologies such as AI, blockchain, robotics, and automation to create seamless and secure applications for our clients.
