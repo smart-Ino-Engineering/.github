@@ -1,6 +1,6 @@
 # Smartinno Engineering Company Profile
 
-![Smartinno Logo](https://www.smartinno.net/logo.png) 
+![Smartinno Logo](https://avatars.githubusercontent.com/u/170186424?s=200&v=4) 
 
 
 ## About Us
